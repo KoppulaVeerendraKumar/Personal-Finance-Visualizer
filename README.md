@@ -1,7 +1,7 @@
 # Personal Finance Visualizer
+[Live Demo 🚀](https://personal-finance-visualizer-eta.vercel.app/)
 
-## Overview
-Personal Finance Visualizer is a web application designed to help users track their personal finances efficiently. Built using Next.js, React, shadcn/ui, Recharts, and MongoDB, it provides users with an intuitive interface to manage transactions, categorize expenses, and set monthly budgets.
+Personal Finance Visualizer is a web application that helps users manage and track their finances effectively. With a user-friendly interface and powerful visualization tools, users can view their transactions, set budgets, and analyze spending patterns.
 
 ## Features
 - Add, edit, and delete transactions (amount, date, description)
